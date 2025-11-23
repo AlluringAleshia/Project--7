@@ -45,6 +45,7 @@ activity_main https://github.com/AlluringAleshia/Project--7/blob/7563ce8616b8c36
 
 PokemonAdapter.kt https://github.com/AlluringAleshia/Project--7/blob/d1ad0afdc16ad2ed5cbc639a4562c5e514d99a25/PokemonAdapter.kt
 
+Main https://github.com/AlluringAleshia/Project--7/blob/3998119073dd654c4a2619d9415ba7282dda69e1/MainActivity.kt
 
 
 ## Video Demo
