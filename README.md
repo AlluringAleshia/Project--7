@@ -43,7 +43,7 @@ The following EXTRA features are implemented:
 activity_main https://github.com/AlluringAleshia/Project--7/blob/7563ce8616b8c36e1aeaf979866d253d4311fd0a/activity_main
 
 
-
+PokemonAdapter.kt https://github.com/AlluringAleshia/Project--7/blob/d1ad0afdc16ad2ed5cbc639a4562c5e514d99a25/PokemonAdapter.kt
 
 
 
