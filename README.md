@@ -47,6 +47,9 @@ PokemonAdapter.kt https://github.com/AlluringAleshia/Project--7/blob/d1ad0afdc16
 
 Main https://github.com/AlluringAleshia/Project--7/blob/3998119073dd654c4a2619d9415ba7282dda69e1/MainActivity.kt
 
+Andriod https://github.com/AlluringAleshia/Project--7/blob/cf736cd712a078fcad1bbd7a0d959ba1eff7a877/AndroidManifest.kt
+
+Theme.xml 
 
 ## Video Demo
 
