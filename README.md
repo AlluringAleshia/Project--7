@@ -49,7 +49,9 @@ Main https://github.com/AlluringAleshia/Project--7/blob/3998119073dd654c4a2619d9
 
 Andriod https://github.com/AlluringAleshia/Project--7/blob/cf736cd712a078fcad1bbd7a0d959ba1eff7a877/AndroidManifest.kt
 
-Theme.xml 
+Theme.xml https://github.com/AlluringAleshia/Project--7/blob/263d8985800cdd1a8b2cb7e9c2c8e7bb9362b43d/theme.xml
+
+
 
 ## Video Demo
 
