@@ -51,6 +51,8 @@ Andriod https://github.com/AlluringAleshia/Project--7/blob/cf736cd712a078fcad1bb
 
 Theme.xml https://github.com/AlluringAleshia/Project--7/blob/263d8985800cdd1a8b2cb7e9c2c8e7bb9362b43d/theme.xml
 
+https://github.com/AlluringAleshia/Project--7/blob/402b9dc7fbb77c69db3c1bcb303bfa09f70b057b/build.gradle(app)
+
 
 
 ## Video Demo
