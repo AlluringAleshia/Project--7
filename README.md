@@ -53,6 +53,7 @@ Theme.xml https://github.com/AlluringAleshia/Project--7/blob/263d8985800cdd1a8b2
 
 https://github.com/AlluringAleshia/Project--7/blob/402b9dc7fbb77c69db3c1bcb303bfa09f70b057b/build.gradle(app)
 
+https://github.com/AlluringAleshia/Project--7/blob/99e3892d892158a4f42330914fc1c2064b7bb575/pokemon_item.xml
 
 
 ## Video Demo
