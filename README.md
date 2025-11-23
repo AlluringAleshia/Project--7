@@ -40,6 +40,8 @@ The following EXTRA features are implemented:
 
 - [ ] List anything else that you added to improve the app!
 ## Codes
+activity_main https://github.com/AlluringAleshia/Project--7/blob/7563ce8616b8c36e1aeaf979866d253d4311fd0a/activity_main
+
 
 
 
