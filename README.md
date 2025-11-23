@@ -55,6 +55,7 @@ https://github.com/AlluringAleshia/Project--7/blob/402b9dc7fbb77c69db3c1bcb303bf
 
 https://github.com/AlluringAleshia/Project--7/blob/99e3892d892158a4f42330914fc1c2064b7bb575/pokemon_item.xml
 
+https://github.com/AlluringAleshia/Project--7/blob/2154786e6785c941c7e7526480982b716914840f/build.gradle.kts
 
 ## Video Demo
 
